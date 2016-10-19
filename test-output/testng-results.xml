@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9924" started-at="2016-10-19T17:17:18Z" finished-at="2016-10-19T17:17:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9924" started-at="2016-10-19T17:17:18Z" finished-at="2016-10-19T17:17:28Z">
+      <class name="NewReleaseReminderEmail.NewReleaseReminderEmailTest">
+        <test-method status="PASS" signature="SeleniumTestSetup()[pri:0, instance:NewReleaseReminderEmail.NewReleaseReminderEmailTest@26be92ad]" name="SeleniumTestSetup" is-config="true" duration-ms="7286" started-at="2016-10-19T13:17:18Z" finished-at="2016-10-19T13:17:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTestSetup -->
+        <test-method status="PASS" signature="ReminderEmailTest()[pri:0, instance:NewReleaseReminderEmail.NewReleaseReminderEmailTest@26be92ad]" name="ReminderEmailTest" duration-ms="954" started-at="2016-10-19T13:17:25Z" finished-at="2016-10-19T13:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReminderEmailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:NewReleaseReminderEmail.NewReleaseReminderEmailTest@26be92ad]" name="tearDown" is-config="true" duration-ms="1655" started-at="2016-10-19T13:17:26Z" finished-at="2016-10-19T13:17:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- NewReleaseReminderEmail.NewReleaseReminderEmailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
